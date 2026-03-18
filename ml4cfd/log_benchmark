@@ -1,0 +1,7 @@
+2026-01-30 00:13:49 - TorchSimulator            - INFO    : Training of {torch_fc_DEFAULT} started
+2026-01-30 01:25:01 - TorchSimulator            - INFO    : Training of {torch_fc_DEFAULT} started
+2026-01-30 05:07:58 - TorchSimulator            - INFO    : Training of {torch_fc_DEFAULT} started
+2026-01-30 05:13:13 - TorchSimulator            - INFO    : Training of {torch_fc_DEFAULT} started
+2026-01-30 15:37:06 - TorchSimulator            - INFO    : Model {torch_fc_DEFAULT} is saved at {AirfRANSModel\fully_connected\torch_fc_DEFAULT}
+2026-01-30 15:37:14 - TorchSimulator            - INFO    : Model {torch_fc_DEFAULT} is loaded from {AirfRANSModel\fully_connected\torch_fc_DEFAULT}
+2026-01-30 15:51:16 - TorchSimulator            - INFO    : Training of {torch_fc_DEFAULT} started
