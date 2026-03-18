@@ -1,0 +1,14 @@
+name: AirfRANScompetitions
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - muscat
+  - tqdm=4.67
+  - pytorch=2.2.0
+  - scikit-learn=1.5
+  - mkl
+  - cython
+  - mkl-include
+  - numpy=1.25.2
+prefix: /home/tanbab/miniconda3/envs/AirfRANScompetitions
